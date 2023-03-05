@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding :0;
+    box-sizing: border-box;
+}
+
+.carousel-item img {
+    height: 75vh;
+    object-fit: cover;
+}
+.carousel-control-prev {
+    left: 10%
+}
+
+.carousel-control-next {
+    right: 10%
+}
+
+.marketing{
+    text-align: center;
+}
+
+.row{
+    margin: 0;
+}
+
+.marketing h2{
+    font-size: 2.5rem;
+    margin-bottom:  3rem;
+    margin-top: 0.5rem;
+}
+.img-fluid{
+    margin-top: 0.5rem;
+    width: 400px;
+    height: auto;
+}
+
+.footer{
+    text-decoration: none;
+    color: rgb(97, 89, 89);
+}
+
+.float-right{
+    float: right;
+}
+
+.float-center{
+    text-align: center;
+}
+
+
+
